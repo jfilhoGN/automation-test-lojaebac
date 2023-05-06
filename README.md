@@ -29,4 +29,4 @@ Para o projeto foi utilizado a ferramenta de testes Cypress que tem como depend�
 
 ### Pipelines (Github Actions)
 
-Para a melhor verificação da execução dos testes, foi criado uma pipeline para mostrar o código automatizado sendo executado, bem como mostrar como poderia ser uma pipeline com estágios de testes automatizado com o Cypress. Para visualizar a pipeline basta clicar no link [Github Actions]() e clicar na descrição que possui um check em verde na frente, após clicar na descrição, clique na palavra `1 job completed` que você verá em detalhes como que foi executado a pipeline.
+Para a melhor verificação da execução dos testes, foi criado uma pipeline para mostrar o código automatizado sendo executado, bem como mostrar como poderia ser uma pipeline com estágios de testes automatizado com o Cypress. Para visualizar a pipeline basta clicar no link [Github Actions](https://github.com/jfilhoGN/automation-test-lojaebac/actions/runs/4898827443).
