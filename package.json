@@ -1,0 +1,27 @@
+{
+  "name": "automation-via-hub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open:e2e": "npx cypress open",
+    "cy:run:e2e": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfilhoGN/automation-test-lojaebac.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfilhoGN/automation-test-lojaebac/issues"
+  },
+  "homepage": "https://github.com/jfilhoGN/automation-test-lojaebac#readme",
+  "devDependencies": {
+    "@testing-library/cypress": "^9.0.0",
+    "cypress": "^12.11.0"
+  },
+  "dependencies": {
+    "cypress-testing-library": "^4.0.0"
+  }
+}
